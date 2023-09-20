@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Login Page</string>
+    <string name="halaman_login" translatable="false">Halaman Login</string>
+    <string name="username" translatable="false">Username</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="masuk" translatable="false">Masuk</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="halaman_aplikasi" translatable="false">Halaman Aplikasi</string>
+</resources>
